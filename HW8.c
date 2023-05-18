@@ -179,7 +179,7 @@ int insertFirst(listNode* h, int key) {
 // 리스트의 첫 번째 노드를 삭제
 int deleteFirst(listNode* h) {
 
-`
+
 	return 1;
 
 }
@@ -188,7 +188,7 @@ int deleteFirst(listNode* h) {
 // 리스트의 순서를 역순으로 뒤집는다.
 int invertList(listNode* h) {
 
-`
+
 	return 0;
 }
 
